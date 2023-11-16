@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"KI305.Fedus.Lab2","l":"AirConditioner"},{"p":"KI305.Fedus.Lab2","l":"AirConditionerDriver"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Fedus.Lab2","l":"Company"},{"p":"KI305.Fedus.Lab2","l":"Dimensions"},{"p":"KI305.Fedus.Lab2","l":"TemperatureAmplitude"}];updateSearchResults();
