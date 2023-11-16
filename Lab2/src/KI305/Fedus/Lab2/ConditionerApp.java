@@ -19,6 +19,9 @@ public class ConditionerApp {
         Conditioner conditioner = new Conditioner();
         conditioner.getFactoryName(); // Demonstrate getFactoryName method
         conditioner.getConditionColor(); // Demonstrate getConditionColor method
+        conditioner.getConditionMode(); // Demonstrate getConditionMode method
+        conditioner.setLowCondition(); // Demonstrate setLowCondition method
+        conditioner.getConditionMode();
 
         // Create a custom Conditioner instance with a specific name and color
         Conditioner conditioner1 = new Conditioner("Conditioner 2077", Conditioner.ConditionColor.YELLOW);
