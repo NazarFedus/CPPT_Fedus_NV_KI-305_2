@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI305.Fedus.Lab5","l":"CalculateTheEquation"},{"p":"KI305.Fedus.Lab5","l":"CalculateTheEquationInterface"},{"p":"KI305.Fedus.Lab5","l":"EquationsApp"},{"p":"KI305.Fedus.Lab5","l":"ReadWriteData"}];updateSearchResults();
