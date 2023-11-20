@@ -25,7 +25,7 @@ public class Lab1FedusKI305 {
         String filler;
 
         Scanner in = new Scanner(System.in);
-        File dataFile = new File("result.txt");
+        File dataFile = new File("output.txt");
         PrintWriter fout = new PrintWriter(dataFile);
 
         System.out.print("Enter the size of the matrix: ");
